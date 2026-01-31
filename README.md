@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Kane</h1>
-<h3 align="center">A first-year Computer Science student at University of Portsmouth</h3>
+<h3 align="center">First Year Computer Science Student @ Portsmouth University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziixq&label=Profile%20views&color=0e75b6&style=flat" alt="ziixq" /> </p>
 
-- I’m currently working on a stock sentiment app to learn full-stack development and source control. I am also working on some smaller personal use projects.
-- I’m currently learning **Python, PostgreSQL, Dart, Flutter** at university.
-- In my own time, I would like to learn **JS, React**.
+- Aspiring Software Engineer
+- Building Full-Stack Projects | Python, React, Postgres
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
